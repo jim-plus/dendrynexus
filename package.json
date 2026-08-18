@@ -13,7 +13,7 @@
   },
   "bugs": "https://github.com/aucchen/dendrynexus/issues",
   "license": "MIT",
-  "main": "lib/dendry.js",
+  "main": "lib/engine.js",
   "dependencies": {
     "argparse": "1.0.x",
     "async": "1.x.x",
